@@ -1,0 +1,1 @@
+export const homeurl = "http://10.53.98.35:8090/"
